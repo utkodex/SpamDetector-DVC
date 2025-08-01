@@ -1,3 +1,4 @@
 sklearn
 PyYAML
 nltk==3.8.1
+dvc
