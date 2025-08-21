@@ -1,0 +1,4 @@
+[core]
+    remote = dvcs3store
+['remote "dvcs3store"']
+    url = s3://checking-proj
